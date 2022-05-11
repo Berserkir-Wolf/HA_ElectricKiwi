@@ -4,9 +4,7 @@
 
 [![hacs][hacsbadge]][hacs]
 [![Project Maintenance][maintenance-shield]][user_profile]
-[![BuyMeCoffee][buymecoffeebadge]][buymecoffee]
 
-[![Discord][discord-shield]][discord]
 [![Community Forum][forum-shield]][forum]
 
 _Component based on [integration_blueprint][integration_blueprint]._
@@ -22,13 +20,13 @@ Platform | Description
 ![example][exampleimg]
 
 {% if not installed %}
+
 ## Installation
 
 1. Click install.
 1. In the HA UI go to "Configuration" -> "Integrations" click "+" and search for "Blueprint".
 
 {% endif %}
-
 
 ## Configuration is done in the UI
 
