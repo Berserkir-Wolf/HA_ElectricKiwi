@@ -17,8 +17,6 @@ Platform | Description
 `sensor` | Show info from API.
 `switch` | Switch something `True` or `False`.
 
-![example][exampleimg]
-
 {% if not installed %}
 
 ## Installation
