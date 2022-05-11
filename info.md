@@ -43,7 +43,7 @@ Platform | Description
 [forum]: https://community.home-assistant.io/
 [license]: https://github.com/Berserkir-Wolf/HA_ElectricKiwi/commits/main/blob/main/LICENSE
 [license-shield]: https://img.shields.io/github/license/Berserkir-Wolf/HA_ElectricKiwi.svg?style=for-the-badge
-[maintenance-shield]: https://img.shields.io/badge/maintainer-Dyson%20Parkes%20%40BerserkirWolf-blue.svg?style=for-the-badge
+[maintenance-shield]: https://img.shields.io/badge/maintainer-Dyson%20Parkes%20%40Berserkir%2DWolf-blue.svg?style=for-the-badge
 [releases-shield]: https://img.shields.io/github/release/Berserkir-Wolf/HA_ElectricKiwi.svg?style=for-the-badge
 [releases]: https://github.com/Berserkir-Wolf/HA_ElectricKiwi/releases
 [user_profile]: https://github.com/Berserkir-Wolf/
